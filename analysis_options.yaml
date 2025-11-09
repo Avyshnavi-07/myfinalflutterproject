@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - camel_case_types
+    - library_private_types_in_public_api
+    - avoid_print
+    - prefer_single_quotes
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - use_key_in_widget_constructors
+    - always_declare_return_types
